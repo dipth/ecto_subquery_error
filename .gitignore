@@ -1,0 +1,10 @@
+# App artifacts
+/_build
+/deps
+.mix_tasks
+
+# Generated on crash by the VM
+erl_crash.dump
+
+# OS caches
+.DS_store
